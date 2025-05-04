@@ -10,4 +10,4 @@ Instruction on Use
     - Hover over each point on the scatterplot, and hover over the bars, they will showcase the data they represent
 
 Ethical Considerations
-- This data is not sensitive, it is publicly available. There is bias in the data as some data was put in to avoid null values.
+- This data is not sensitive, it is publicly available. There is bias in the data as some data were put in to avoid null values.
